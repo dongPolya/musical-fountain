@@ -1,6 +1,5 @@
 # musical-fountain
 python实现音乐喷泉（魔法钢琴）
-
 1.蓝色音乐喷泉，直接运行blue.py(C4~B5,白14键)
 2.彩色音乐喷泉，运行main.py(C4~B4,黑白12键)
 3.鉴于不同乐器的音质与环境影响，可在必要时运行校准文件进行校准，运行[calibrate.py](calibrate.py)
