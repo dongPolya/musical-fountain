@@ -1,0 +1,58 @@
+{
+  "C4": {
+    "frequency": 263.28553402274963,
+    "amplitude": 500
+  },
+  "D4": {
+    "frequency": 295.19203962090506,
+    "amplitude": 500
+  },
+  "E4": {
+    "frequency": 331.9680093644119,
+    "amplitude": 500
+  },
+  "F4": {
+    "frequency": 350.5491180522859,
+    "amplitude": 500
+  },
+  "G4": {
+    "frequency": 392.4427492943146,
+    "amplitude": 500
+  },
+  "A4": {
+    "frequency": 441.58597140713516,
+    "amplitude": 500
+  },
+  "B4": {
+    "frequency": 490.32734013863785,
+    "amplitude": 500
+  },
+  "C5": {
+    "frequency": 523.9429613577145,
+    "amplitude": 500
+  },
+  "D5": {
+    "frequency": 589.0328791624187,
+    "amplitude": 500
+  },
+  "E5": {
+    "frequency": 659.1785368757693,
+    "amplitude": 500
+  },
+  "F5": {
+    "frequency": 699.1849738144741,
+    "amplitude": 500
+  },
+  "G5": {
+    "frequency": 784.9922184709276,
+    "amplitude": 500
+  },
+  "A5": {
+    "frequency": 882.1712284922381,
+    "amplitude": 500
+  },
+  "B5": {
+    "frequency": 987.9416107918674,
+    "amplitude": 500
+  }
+}
